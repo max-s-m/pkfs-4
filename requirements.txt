@@ -1,0 +1,6 @@
+numpy
+matplotlib
+Pillow
+pytest
+pytest-html
+flake8
